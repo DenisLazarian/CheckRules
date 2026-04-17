@@ -4,7 +4,7 @@ class Calculadora:
 
     @classmethod
     def add(cls, x, y):
-        return x, y
+        return x, y # comentario
 
 
 if __name__ == '__main__':
